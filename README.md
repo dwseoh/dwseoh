@@ -1,5 +1,5 @@
 ## Hi, my name is Jamie Seoh (서동완)  ‼️
-### I am an experienced Front-End Developer eager to pursue Computer Science 🌱
+### I am an experienced Front-End Developer eager to pursue a career in Computer Science 🌱
 - 🇰🇷 Korean ｜ He/Him 
 - 🐻 Baseball enjoyer (Doosan Bears 🐻)
 - 💪 Passionate about Music & Coding
