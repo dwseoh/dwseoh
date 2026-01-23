@@ -1,4 +1,7 @@
 ## Hi, my name is Dongwan Seoh (서동완); call me Jamie ‼️
+![Views Badge](https://komarev.com/ghpvc/?username=dwseoh&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-dwseoh.com-blue)](https://www.rickytang.dev)
+
+
 ### I am a full-stack & ML developer. 
 - 🇰🇷 Korean ｜ He/Him 
 - 🐻 Baseball enjoyer (Doosan Bears)
@@ -16,6 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwseoh&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
 ### Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/891434702509060106) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dongwan_seoh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-seoh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@dwseoh.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-seoh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@dwseoh.com) 
 
 ---
