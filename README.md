@@ -2,7 +2,7 @@
 ![Views Badge](https://komarev.com/ghpvc/?username=dwseoh&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-dwseoh.com-blue)](https://www.dwseoh.com)
 
 
-### I am a full-stack & ML developer. 
+### I am a full-stack & AI application developer. 
 - 🇰🇷 Korean ｜ He/Him 
 - 🐻 Baseball enjoyer (Doosan Bears)
 - 💪 Passionate about Programming, Photography, Music (Clarinetist, Producer, Conductor, Ensemble Leader) 
