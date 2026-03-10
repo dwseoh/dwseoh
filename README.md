@@ -1,4 +1,4 @@
-## Hi, my name is Dongwan Seoh (서동완); call me Jamie ‼️
+## Hi, I'm Dongwan Seoh (서동완); call me Jamie ‼️
 ![Views Badge](https://komarev.com/ghpvc/?username=dwseoh&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-dwseoh.com-blue)](https://www.dwseoh.com)
 
 
