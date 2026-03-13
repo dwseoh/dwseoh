@@ -16,7 +16,12 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge) 
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) ![Xcode Badge](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&style=for-the-badge) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) ![Zsh Badge](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=for-the-badge) ![Blender Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=for-the-badge)
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwseoh&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+![dwseoh's Stats](https://github-readme-stats.vercel.app/api?username=dwseoh&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![dwseoh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwseoh&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+
+![snake gif](https://github.com/dwseoh/dwseoh/blob/output/github-snake.svg)
+
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-seoh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@dwseoh.com) 
