@@ -85,7 +85,6 @@ currently_learning: ["Machine Learning", "DevOps", "CI/CD"]
 ![snake gif](https://github.com/dwseoh/dwseoh/blob/output/github-snake.svg)
 
 </details>
-<br>
 
 ---
 
