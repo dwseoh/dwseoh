@@ -46,7 +46,7 @@ currently_learning: ["Machine Learning", "DevOps", "CI/CD"]
   </td>
     <td>
 
-<img src="assets/me.jpg" width="300" style="border-radius: 12px"/>
+<img src="assets/conference.jpg" width="300" style="border-radius: 12px"/>
 
   </td>
   </tr>
