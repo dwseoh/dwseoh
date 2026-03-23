@@ -18,16 +18,7 @@
   </a>
 </p>
 
-<!-- ```📄 about-me.json```
-```yaml
-focus: "Full-stack & AI Application Developer"
-current: "🛠️ Engineering open-source solutions for everyday inefficiencies"
-education: "🏫 Software Engineering Student at University of Waterloo"
-hobby: "Music Enthusiast + Photographer"
 
-currently_learning: ["Machine Learning", "DevOps", "CI/CD"]
-```
-![banner](assets/banner.jpg) -->
 
 <table>
   <tr>
@@ -35,18 +26,20 @@ currently_learning: ["Machine Learning", "DevOps", "CI/CD"]
 
 **`📄 about-me.json`**
 ```yaml
-focus: "Full-stack & AI Application Developer"
-current: "🛠️ Engineering open-source solutions for everyday inefficiencies"
-education: "🏫 Software Engineering Student at University of Waterloo"
-hobby: "Music Enthusiast + Photographer"
+{
+  "focus": "Full-stack & AI Application Developer",
+  "current": "🛠️ Engineering solutions for everyday inefficiencies",
+  "education": "🏫 Software Engineering Student at University of Waterloo",
+  "hobby": "Music Enthusiast + Photographer",
+  "currently_learning": ["Machine Learning", "DevOps", "CI/CD"]
+}
 
-currently_learning: ["Machine Learning", "DevOps", "CI/CD"]
 ```
 
   </td>
     <td>
 
-<img src="assets/conference.jpg" width="300" style="border-radius: 12px"/>
+<img src="assets/conference.jpg" width="400" style="border-radius: 12px"/>
 
   </td>
   </tr>
