@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Website-dwseoh.com-blue" />
   </a>
   <a href="https://substack.com/@dwseoh">
-    <img src="https://img.shields.io/badge/Blog-Substack-blue" />
+    <img src="https://img.shields.io/badge/Blog-Substack-ff6719" />
   </a>
 </p>
 
