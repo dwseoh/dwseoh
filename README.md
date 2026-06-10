@@ -28,10 +28,11 @@
 ```yaml
 {
   "focus": "Full-stack & AI Application Developer",
-  "current": "🛠️ Engineering solutions for everyday inefficiencies",
+  "current": "AI Software Engineer at Cerebras Systems (Inference Debug Team)",
+  "goal": "🛠️ Engineering solutions for everyday inefficiencies",
   "education": "🏫 Software Engineering Student at University of Waterloo",
-  "hobby": "Music Enthusiast + Photographer",
-  "currently_learning": ["Machine Learning", "DevOps", "CI/CD"]
+  "hobby": "Music Composer/Clarinetist/Conductor/Pianist, Photographer",
+  "currently_learning": ["Machine Learning", "CI/CD"]
 }
 
 ```
