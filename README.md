@@ -28,7 +28,7 @@
 ```yaml
 {
   "focus": "Full-stack & AI Application Developer",
-  "current": "AI Software Engineer at Cerebras Systems (Inference Debug Team)",
+  "current": "AI Software Engineer at Cerebras Systems (Inference Debug Team) - low-level C++ infrastructure",
   "goal": "🛠️ Engineering solutions for everyday inefficiencies",
   "education": "🏫 Software Engineering Student at University of Waterloo",
   "hobby": "Music Composer/Clarinetist/Conductor/Pianist, Photographer",
