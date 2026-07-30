@@ -27,7 +27,7 @@
   "goal": "🛠️ Engineering solutions for everyday inefficiencies",
   "education": "🏫 Software Engineering Student at University of Waterloo",
   "hobby": "Music Composer/Clarinetist/Conductor/Pianist, Photographer",
-  "currently_learning": ["Machine Learning", "Hardware"]
+  "currently_learning": ["Machine Learning", "Embedded Systems"]
 }
 
 ```
