@@ -1,20 +1,15 @@
 <h2 align="center">👋 Hi! I'm <a href="https://dwseoh.com">Jamie Seoh.</a></h2>
-<!-- <p align="center">
-  <a href="https://substack.com/@dwseoh">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
-  
-</p> -->
 
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/🇰🇷%20Korean-bd3ab0" />
   <img src="https://komarev.com/ghpvc/?username=dwseoh&label=Profile%20views&color=0e75b6&style=flat" />
-  <a href="https://www.dwseoh.com">
+  <a href="https://dwseoh.com">
     <img src="https://img.shields.io/badge/Website-dwseoh.com-blue" />
   </a>
-  <a href="https://substack.com/@dwseoh">
-    <img src="https://img.shields.io/badge/Blog-Substack-ff6719" />
+  <a href="https://dwseoh.com/blog">
+    <img src="https://img.shields.io/badge/Blog-/blog-ff6719" />
   </a>
 </p>
 
