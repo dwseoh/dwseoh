@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🇰🇷%20Korean-bd3ab0" />
-  <img src="https://komarev.com/ghpvc/?username=dwseoh&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dwseoh&label=Profile%20views&color=0e75b6&style=flat"/>
   <a href="https://dwseoh.com">
     <img src="https://img.shields.io/badge/Website-dwseoh.com-blue" />
   </a>
