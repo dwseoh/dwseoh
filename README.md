@@ -22,12 +22,12 @@
 **`📄 about-me.json`**
 ```yaml
 {
-  "focus": "Full-stack & AI Application Developer",
-  "current": "AI Software Engineer at Cerebras Systems (Inference Debug Team)",
+  "focus": "Full-Stack & Systems Engineer",
+  "current": "Prev. SWE at Cerebras Systems",
   "goal": "🛠️ Engineering solutions for everyday inefficiencies",
   "education": "🏫 Software Engineering Student at University of Waterloo",
   "hobby": "Music Composer/Clarinetist/Conductor/Pianist, Photographer",
-  "currently_learning": ["Machine Learning", "Embedded Systems"]
+  "currently_learning": ["Compilers", "Embedded Systems"]
 }
 
 ```
