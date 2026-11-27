@@ -78,6 +78,6 @@
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-seoh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@dwseoh.com) [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sdw1_) [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/dwseoh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-seoh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@dwseoh.com) [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jamieseohz) [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/dwseoh)
 
 ---
